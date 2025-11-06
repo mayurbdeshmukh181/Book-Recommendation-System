@@ -122,7 +122,6 @@ book-recommendation-system/
 ├── notebooks/
 │   └── book_recommender.ipynb
 │
-│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -175,22 +174,17 @@ The system uses **Collaborative Filtering** with **Cosine Similarity**:
 This project uses the [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download) which contains:
 - 278,858 users
 - 242,135 books
-- 1,140,556 ratings
+- ~1,150,000 ratings
 
 ## 👤 Author
 
-**Your Name**
+**Mayur Deshmukh**
 - LinkedIn: [Mayur Deshmukh](https://www.linkedin.com/in/mayur-balasaheb-deshmukh-21145b25a/)
 
-## 🙏 Acknowledgments
-
-- Book-Crossing Dataset creators
-- Scikit-learn community
-- All contributors and supporters
 
 ## 📧 Contact
 
-For any queries, reach out at: your.email@example.com
+For any queries, reach out at: mayurbdeshmukh2004@gmail.com
 
 ---
 
