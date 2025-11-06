@@ -122,8 +122,6 @@ book-recommendation-system/
 ├── notebooks/
 │   └── book_recommender.ipynb
 │
-├── src/
-│   └── book_recommender.py
 │
 ├── requirements.txt
 ├── README.md
@@ -168,37 +166,21 @@ The system uses **Collaborative Filtering** with **Cosine Similarity**:
 
 - [ ] Add content-based filtering using book descriptions
 - [ ] Implement hybrid recommendation system
-- [ ] Create web interface using Flask/Streamlit
 - [ ] Add user authentication and personalized recommendations
 - [ ] Include book genre-based filtering
 - [ ] Implement deep learning models (Neural Collaborative Filtering)
 
 ## 📝 Dataset
 
-This project uses the [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) which contains:
+This project uses the [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download) which contains:
 - 278,858 users
-- 271,379 books
-- 1,149,780 ratings
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 242,135 books
+- 1,140,556 ratings
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Mayur Deshmukh](https://www.linkedin.com/in/mayur-balasaheb-deshmukh-21145b25a/)
 
 ## 🙏 Acknowledgments
 
